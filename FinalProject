@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+ 
+ 	<head>
+ 		<meta charset=”utfl-8”>
+ 		<title>ZWaskowicz Programming Portfolio</title>
+		<style>
+			body {
+				background-color: black;
+				Float: center;
+				Width: 805px;
+			}
+			#Banner {
+				Float: center;
+			}
+			tr {
+				color: white;
+			}
+			h1 {
+				color: white;
+			}
+			p {
+				color: white;
+			}
+			
+		</style>
+	</head>
+  
+ 	<body>
+  <img id-"Banner" src="myBanner.jpg" alt="Zachary Waskowicz Programming Portfolio">
+		
+	<table>
+		<thead>
+			<tr>
+				<th><strong>For my application projects:</strong></th>
+        <th><strong>For my Final Project:</strong></th>
+				<th><strong>For my programming goals:</strong></th>
+				<th><strong>For my javascript projects:</strong></th>
+				<th><strong>To return to the homepage:</strong></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><a href="https://zwaskowicz.github.io/apps.html"><img src="Apps.png" alt="Apps"></a></td>
+        <td><a href="https://zwaskowicz.github.io/FinalProject.html"><img src="Apps.png" alt="Final Project"></a></td>
+				<td><a href="https://zwaskowicz.github.io/about.html"><img src="About.png" alt="About Me"></a></td>
+				<td><a href="https://zwaskowicz.github.io/javascripts.html"><img src="Javascripts.png" alt="Java Script"></a></td>
+				<td><a href="https://zwaskowicz.github.io/"><img src="Home.png" alt="Home Page"></a></td>
+			</tr>
+		</tbody>
+	</table>
+    <h1>Z Waskowicz Javacript projects</h1>
+		
+	<h2><a href="https://www.khanacademy.org/computer-programming/waskowicz_clicker/5565384106754048"><img src="zw_clicker.png" alt="waskowicz_clicker"></a></h2>
+    <p>This program is a short and sweet clicker game I made using my programming knowledge obtained over the course of my classes.  Test to see how fast you can click!  This game tracks the number of clicks (on release of the left mouse button) you can make in the span of 20 in game seconds.  You can play solo against your choice of three difficulties, or play with a friend to see which of you can click the fastest!  Player 1 clicks the left mouse button, and player 2 clicks spacebar.</p>
+    
+  </body>
+</html>
